@@ -19,8 +19,10 @@ Sedangkan warna hitam melambangkan Elegan, mewah, daya tarik dan ketegasan. Lalu
   
    ```
    
-![Screenshot (568)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/63adb90c-2396-48d1-b00e-e769e3da459c)
-![Screenshot (570)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/5abdea56-63fd-4c15-9b7d-e7332db18048)
+![Screenshot (568)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/6ab8148b-07b4-4ec7-a481-5eae227a816e)
+![Screenshot (570)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/4b58b5e1-68da-469a-9108-1d63061f3a8e)
+
+
 
 
    
@@ -59,16 +61,21 @@ Sedangkan warna hitam melambangkan Elegan, mewah, daya tarik dan ketegasan. Lalu
 Secara keseluruhan, kode tersebut mengubah gaya tampilan elemen-elemen dengan kelas "sidenav" dan elemen-elemen <a> di dalamnya ketika lebar tampilan layar mencapai atau kurang dari 450 piksel. Hal ini memungkinkan penyesuaian tampilan yang lebih baik untuk perangkat dengan layar kecil, seperti ponsel atau tablet dengan lebar tampilan yang sempit.
 
 
-![Screenshot (575)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/11769587-449d-40c2-be91-b426929e092c)
+![Screenshot (578)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/def99804-89ed-4079-8f5b-93fc8ee94ef8)
 
-![Screenshot (579)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/a30f47db-064c-4827-8de9-df193c47582f)
+![Screenshot (579)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/8fd0496e-89a3-4a5b-bee7-e479d781d189)
 
-![Screenshot (578)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/9770f1d6-6f57-41cf-87be-a2cae3a7a1c0)
+
+![Screenshot (575)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/0e47c999-ada8-49e7-a043-0b6bde67deb3)
+
+
+
 
 #### Direct Feedback 
 Website ini memiliki beberapa direct feedback seperti jika mengklik beberapa icon tertentu, menu navbar yang dapat menunjukan posisi sekarang ada di halaman apa, step step yang dapat dibuka ataupun ditutup (melihat detail produk), dan form yang dapat diisi oleh customer website.
 
-![Screenshot (590)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/e3921e9f-ccdb-4816-8c9f-a0c1611687ba)
+![Screenshot (590)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/a75bd83f-18aa-466d-8c9f-6bda734973d8)
+
 
 ``` ruby 
 
@@ -85,7 +92,8 @@ Website ini memiliki beberapa direct feedback seperti jika mengklik beberapa ico
 
  ```
  
-![Screenshot (591)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/e566e7bc-be44-453c-b309-cec7a91c6223)
+![Screenshot (591)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/2892a525-e66a-4984-bc71-1dd3dd5dec5a)
+
 
  
  ``` ruby 
@@ -111,8 +119,11 @@ function toggleHideDesk(id) {
 
  ```
  
-![Screenshot (593)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/e804e4d5-c573-4c8c-b3ae-ef4ad462607f)
-![Screenshot (594)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/f45eca68-60a6-4d36-af70-e38df0a72dc3)
+![Screenshot (593)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/3b117aab-a566-4c83-b139-801733dacf4d)
+
+![Screenshot (594)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/b07460b2-3f93-4f04-9d28-96b54ba16681)
+
+
 
 ``` ruby
 
@@ -195,7 +206,8 @@ Yang saya lakukan adalah membuat koneksi dengan cara sesuai panduan dari modul. 
 
  ```
  
-![Screenshot (597)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/beea77c6-6228-4e19-9c17-03df8f099bb4)
+![Screenshot (597)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/99e817e7-d695-4a82-b488-11ea1d624816)
+
  
  
  Selain itu, pada tampilan review customer, saya menggunakan PHP. Di mana saya membuat tabel data customer yang berisi nama, serta ulasan. 
@@ -235,7 +247,8 @@ mysqli_close($conn);
 
 ```
 
-![Screenshot (575)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/aeef1a47-0425-478c-a687-e60b99b33161)
+![Screenshot (575)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_Skincare/assets/126531008/d9bbd8c8-8f96-4484-8421-882aad1fc0df)
+
 
 
 
