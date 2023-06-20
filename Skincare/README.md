@@ -19,8 +19,8 @@ Sedangkan warna hitam melambangkan Elegan, mewah, daya tarik dan ketegasan. Lalu
   
    ```
    
-   ![Screenshot (568)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/63adb90c-2396-48d1-b00e-e769e3da459c)
-   ![Screenshot (570)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/5abdea56-63fd-4c15-9b7d-e7332db18048)
+![Screenshot (568)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/63adb90c-2396-48d1-b00e-e769e3da459c)
+![Screenshot (570)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/5abdea56-63fd-4c15-9b7d-e7332db18048)
 
 
    
@@ -85,7 +85,7 @@ Website ini memiliki beberapa direct feedback seperti jika mengklik beberapa ico
 
  ```
  
- ![Screenshot (591)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/e566e7bc-be44-453c-b309-cec7a91c6223)
+![Screenshot (591)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/e566e7bc-be44-453c-b309-cec7a91c6223)
 
  
  ``` ruby 
@@ -195,7 +195,7 @@ Yang saya lakukan adalah membuat koneksi dengan cara sesuai panduan dari modul. 
 
  ```
  
- ![Screenshot (597)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/beea77c6-6228-4e19-9c17-03df8f099bb4)
+![Screenshot (597)](https://github.com/KinanthyCn/UASPPW1_22-494423-SV-20815_-Skincare/assets/126531008/beea77c6-6228-4e19-9c17-03df8f099bb4)
  
  
  Selain itu, pada tampilan review customer, saya menggunakan PHP. Di mana saya membuat tabel data customer yang berisi nama, serta ulasan. 
